@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Software Developer | Python • Java • JavaScript • SQL | Building web applications that scale.<br><br>
 
 
